@@ -1,0 +1,4 @@
+ip,username,password
+10.0.0.10,admin1,pass1
+10.0.0.11,admin2,pass2
+10.0.0.12,,
